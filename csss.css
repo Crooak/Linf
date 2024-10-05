@@ -190,6 +190,12 @@ section p, h4{
     body{
         font-size: 25px;
     }
+    header nav a{
+        font-size: 21px;
+    }
+    .logo{
+        font-size: 27px;
+    }
 }
 
 
